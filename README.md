@@ -1,1 +1,1 @@
-> (License)[LICENSE]
+> [License](LICENSE)
