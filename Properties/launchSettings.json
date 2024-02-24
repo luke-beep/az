@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "az": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
